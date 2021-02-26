@@ -1,1 +1,1 @@
-Sitemap: https://supplychaindatascience.com/Supply-Chain-Data-Sciecnce/sitemap.xml
+Sitemap: https://supplychaindatascience/Supply-Chain-Data-Sciecnce/sitemap.xml
